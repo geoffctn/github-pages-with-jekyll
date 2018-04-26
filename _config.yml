@@ -12,4 +12,4 @@ github_username:  tenkew
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: Minima
+theme: minima
